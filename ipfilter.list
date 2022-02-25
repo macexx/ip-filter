@@ -16,3 +16,6 @@ https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
+https://iplists.firehol.org/files/firehol_webclient.netset
+https://iplists.firehol.org/files/iblocklist_yoyo_adservers.netset
+https://isc.sans.edu/api/threatlist/shodan/shodan.txt
